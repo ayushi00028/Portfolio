@@ -635,15 +635,7 @@ header {
     background: rgba(255, 255, 255, .14);
     border-radius: 9px;
     overflow: hidden;
-}
-
-.progress-bar {
-    height: 100%;
-    border-radius: 9px;
-    background: linear-gradient(90deg, var(--turquoise), var(--marigold));
-    transform-origin: left;
-    animation: grow 1.5s var(--ease) .3s backwards;
-}
+}
 
 .card-bottom p {
     font-family: var(--display);
